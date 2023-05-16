@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @author mangl
  */
 public class ArrayDemo {
-    
+    //Hi 
     public static void main(String[] args) {
         String myLetter;
         Scanner scanner = new Scanner(System.in);
