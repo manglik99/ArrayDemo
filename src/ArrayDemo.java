@@ -12,7 +12,6 @@ import java.util.Scanner;
  */
 public class ArrayDemo {
     //Hi 
-    //revert commit
     public static void main(String[] args) {
         String myLetter;
         Scanner scanner = new Scanner(System.in);
